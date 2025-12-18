@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Pooja Belbase</h1>
+<h1>Hey there 👋, I'm Pooja Belbase</h1>
 
 - Portfolio: [Pooja-Portfolio-2025](https://github.com/poojabelbase07/Pooja-Portfolio-2025)  
 - Working project: [Audit Trail System](https://official-interview-experience.netlify.app)  
@@ -20,8 +20,7 @@
 **Frameworks & Libraries**  
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs,tailwind&theme=dark)](https://skillicons.dev)   
 
+
 **Dev Tools**
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,postman,figma&theme=dark)](https://skillicons.dev)
 
-I’m actively looking for **entry-level software engineering opportunities** where I can learn, contribute, and grow with a great team.  
-Let’s build something meaningful together ✨

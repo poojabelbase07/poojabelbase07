@@ -20,7 +20,7 @@
 **Frameworks & Libraries**  
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs,tailwind&theme=dark)](https://skillicons.dev)   
 
-**Tools**
+**Dev Tools**
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,postman,figma&theme=dark)](https://skillicons.dev)
 
 I’m actively looking for **entry-level software engineering opportunities** where I can learn, contribute, and grow with a great team.  

@@ -1,62 +1,27 @@
-# Hi 👋, I'm Pooja Belbase  
+<h1 align="center">Hey there 👋, I'm Pooja Belbase</h1>
 
-🚀 Entry-Level Engineer | Curious Mind | Problem Solver  
+- Portfolio: [Pooja-Portfolio-2025](https://github.com/poojabelbase07/Pooja-Portfolio-2025)  
+- Working project: [Audit Trail System](https://official-interview-experience.netlify.app)  
+- Ask me about: **React, Express, JavaScript, Python**  
+- Reach me at: **mailpooja.belbase@gmail.com**  
+- Resume: [Google Drive Link](https://drive.google.com/file/d/1TfqbabdUsj_T_HfsVTKKmL_SqFVI5103/view?usp=sharing)  
 
-🌱 I’m an aspiring software engineer who loves learning by building.  
-I enjoy turning ideas into clean, scalable solutions and continuously improving my skills through real-world projects.
+## Connect with Me
 
-### 👩‍💻 Currently Working On
-🛠 **Audit Trail System**  
-> Building a system focused on tracking changes, maintaining data integrity, and improving system transparency.
+<p align="left">
+  <a href="https://linkedin.com/in/poojabelbase07" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja belbase" height="30" width="40" /></a>
+</p>
 
-### 💡 Ask Me About
-- Data Structures & Algorithms  
-- Backend Fundamentals  
-- REST APIs  
-- JavaScript & Python Basics  
-- Version Control (Git & GitHub)
+## Tech Stack
 
-### 🧰 Tech Stack
+**Languages**  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java&theme=dark)](https://skillicons.dev)  
 
-#### 💻 Languages
-- JavaScript  
-- Python  
-- SQL  
+**Frameworks & Libraries**  
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs,tailwind&theme=dark)](https://skillicons.dev)   
 
-#### ⚙️ Frameworks & Libraries
-- React  
-- TypeScript
-- Node.js 
-- FastAPI
-- Express  
-- Next.js  
-
-#### 🛠 Tools & Platforms
-- Git & GitHub  
-- Docker
-- VS Code  
-- Postman  
-- Linux (Basics)
-
-### 📌 Featured Projects
-🔹 **Audit Trail System** – Securely logging system changes  
-🔹 **Mini Full-Stack Applications** – Learning end-to-end development  
-🔹 **Mentii - Mental health Platform** – UI Focused mental health platform with chatbot support
-
-*(More projects coming soon — learning never stops!)*
-
-### 📄 Resume
-📌 Resume Link – https://drive.google.com/file/d/1TfqbabdUsj_T_HfsVTKKmL_SqFVI5103/view?usp=sharing 
-
-### 🌐 Portfolio
-🔗 https://github.com/poojabelbase07/Pooja-Portfolio-2025
-
-### 📫 Reach Me At
-- 📧 Email: mailpooja.belbase@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/poojabelbase07  
-
-### 🌱 Philosophy
-> *“Every expert was once a beginner who didn’t quit.”*
+**Tools**
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,postman,figma&theme=dark)](https://skillicons.dev)
 
 I’m actively looking for **entry-level software engineering opportunities** where I can learn, contribute, and grow with a great team.  
 Let’s build something meaningful together ✨

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pooja Belbase  
 
-🚀 Entry-Level Engineer | Curious Builder | Problem Solver  
+🚀 Entry-Level Engineer | Curious Mind | Problem Solver  
 
 🌱 I’m an aspiring software engineer who loves learning by building.  
 I enjoy turning ideas into clean, scalable solutions and continuously improving my skills through real-world projects.

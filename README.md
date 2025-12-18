@@ -9,7 +9,6 @@ I enjoy turning ideas into clean, scalable solutions and continuously improving 
 🛠 **Audit Trail System**  
 > Building a system focused on tracking changes, maintaining data integrity, and improving system transparency.
 
-
 ### 💡 Ask Me About
 - Data Structures & Algorithms  
 - Backend Fundamentals  
@@ -22,7 +21,6 @@ I enjoy turning ideas into clean, scalable solutions and continuously improving 
 #### 💻 Languages
 - JavaScript  
 - Python  
-- Java
 - SQL  
 
 #### ⚙️ Frameworks & Libraries
@@ -31,7 +29,7 @@ I enjoy turning ideas into clean, scalable solutions and continuously improving 
 - Node.js 
 - FastAPI
 - Express  
-- Basic Next.js  
+- Next.js  
 
 #### 🛠 Tools & Platforms
 - Git & GitHub  
@@ -40,14 +38,6 @@ I enjoy turning ideas into clean, scalable solutions and continuously improving 
 - Postman  
 - Linux (Basics)
 
-### 🚀 Skills
-- Problem Solving & Logical Thinking  
-- Writing Clean & Readable Code  
-- Debugging & Testing  
-- Fast Learner & Adaptable  
-- Team Collaboration
-
-
 ### 📌 Featured Projects
 🔹 **Audit Trail System** – Securely logging system changes  
 🔹 **Mini Full-Stack Applications** – Learning end-to-end development  
@@ -55,18 +45,15 @@ I enjoy turning ideas into clean, scalable solutions and continuously improving 
 
 *(More projects coming soon — learning never stops!)*
 
-
 ### 📄 Resume
 📌 Resume Link – https://drive.google.com/file/d/1TfqbabdUsj_T_HfsVTKKmL_SqFVI5103/view?usp=sharing 
 
 ### 🌐 Portfolio
 🔗 https://github.com/poojabelbase07/Pooja-Portfolio-2025
 
-
 ### 📫 Reach Me At
 - 📧 Email: mailpooja.belbase@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/poojabelbase07  
-
 
 ### 🌱 Philosophy
 > *“Every expert was once a beginner who didn’t quit.”*

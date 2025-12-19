@@ -4,7 +4,7 @@
 - Working project: [Audit Trail System](https://github.com/poojabelbase07/Audit-Trail-System-Backend)
 - Ask me about: **React, Express, JavaScript, Python**  
 - Reach me at: **mailpooja.belbase@gmail.com**  
-- Resume: [Google Drive Link](https://drive.google.com/file/d/1TfqbabdUsj_T_HfsVTKKmL_SqFVI5103/view?usp=sharing)  
+- Resume: [Google Drive Link](https://drive.google.com/file/d/1ZpR6XSuzgY7h9Thn0mcrWQG_dFTYbiyZ/view?usp=sharing)
 
 ## Connect with Me
 

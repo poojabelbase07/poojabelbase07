@@ -2,7 +2,7 @@
 
 - Portfolio: [Pooja-Portfolio-2025](https://github.com/poojabelbase07/Pooja-Portfolio-2025)  
 - Working project: [Audit Trail System](https://github.com/poojabelbase07/Audit-Trail-System-Backend)
-- Ask me about: **React, Express, JavaScript, Python**  
+- Ask me about: **React, Node.js, JavaScript, Python**  
 - Reach me at: **mailpooja.belbase@gmail.com**  
 - Resume: [Google Drive Link](https://drive.google.com/file/d/1ZpR6XSuzgY7h9Thn0mcrWQG_dFTYbiyZ/view?usp=sharing)
 

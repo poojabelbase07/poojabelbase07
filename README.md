@@ -3,7 +3,7 @@
 - Working project: [Centralized Identity System](https://github.com/poojabelbase07/Pramaan-Centralized-Identity-Access-Platform)
 - Ask me about: **Java, Spring Boot, React, Node.js, JavaScript, Python**  
 - Reach me at: **mailpooja.belbase@gmail.com**  
-- Resume: [Google Drive Link](https://drive.google.com/file/d/1omEd2sr5Bxey94-B1vwE8vmULWEIgtD5/view?usp=sharing)
+- Resume: [Google Drive Link](https://drive.google.com/file/d/1MZsuVsLEDUQGgnDnmaneyM8DVdTv8kLG/view?usp=sharing)
 
 ## Connect with Me
 
